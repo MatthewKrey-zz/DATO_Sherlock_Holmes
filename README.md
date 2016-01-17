@@ -1,4 +1,16 @@
-# Text Analysis experiment with DATO
+# Text Analysis experiment with Dato
+
+Solid Saturday Stat Study with Dato & Python. I recently discovered
+Dato after seeing one of their [Events](https://dato.com/events/) posted
+on Twitter and have been enjoying learning more about how to use their
+platform tools for rapid and powerful Machine Learning prototyping.
+
+This repo reflects my open thoughts following along with one of the lessons
+found in the [Dato Gallery](https://dato.com/learn/gallery/).
+
+## Text Analytics Tutorial using Sherlock Holmes Stories
+
+*https://dato.com/learn/gallery/notebooks/sherlock_text_analytics.html*
 
 ## Linear Regression
 
